@@ -4,7 +4,8 @@ sections:
   - type: HeroSection
     colors: colors-h
     title: INVESTMENT
-    text: You should join us.
+    text: |
+      .
     media:
       type: ImageBlock
       url: /images/header_robotic_automation-1024x576.jpg
