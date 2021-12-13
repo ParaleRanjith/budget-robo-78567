@@ -101,7 +101,7 @@ sections:
         textAlign: center
   - type: JobsSection
     colors: colors-a
-    title: Open roles
+    title: OTHER MARKETING AREAS
     subtitle: ''
     jobLists:
       - type: JobList
