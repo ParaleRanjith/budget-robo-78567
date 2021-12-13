@@ -39,8 +39,15 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-h
-    quote: |
+    quote: >
       ## VISION
+
+
+
+
+      BUDGET ROBO-APP – our vision is to make the world a better place by
+      providing advanced Robots for rent and help the people to achieve things
+      in a more enhanced way. 
     styles:
       self:
         height: auto
