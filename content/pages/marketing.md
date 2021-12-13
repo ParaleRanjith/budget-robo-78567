@@ -42,7 +42,6 @@ sections:
     quote: >
       # social media is the most effective and reliable platform to market my
       APP
-    name: Carla Rogers
     title: Someone from the team
     styles:
       self:
