@@ -3,9 +3,20 @@ title: STRATEGIES
 sections:
   - type: QuoteSection
     colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
-      gaps, and we go to lunch together :)
+    quote: >
+      Through our new venture BUDGET ROBO-APP, we can help people to find the
+      suitable ROBOTS for rent from the market without any hassle to use for a
+      day-to-day life without thinking about buying the robot by paying a whole
+      lot of money. Our APP will be designed to help people to find Robots
+      according to their needs and the robots will be delivered to the customer.
+      In addition, all the robots will be connected to our Budget ROBO-APP, to
+      help the people to use them with ease. In the initial stages, only a
+      limited access will be given to the customer with a preference to old,
+      aged people. In coming 5 years, with the help of customer feedback and
+      reports, we make the robots more and more advanced and will be provided to
+      more and more people. Making the venture one of the top ROBO-APP in the
+      world. The robots can help the people for grocery purchase, gardening,
+      driving, cooking and so on.
     name: Carla Rogers
     title: Someone from the team
     styles:
