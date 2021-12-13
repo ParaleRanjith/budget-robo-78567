@@ -120,11 +120,13 @@ sections:
             actions: []
           - type: JobListItem
             location: APP STORE OPTIMIZATION
-            text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+            text: >
+              It is the process of improving the apps visibility in the Apple
+              store & Google Play store. It is an important step to do as the
+              APP should be visible to the customer easily without having any
+              trouble to find it in the play store. There is ton of applications
+              available as of now and there is high chance that there may be
+              applications with logo having resemblance to my APP
             actions:
               - type: Link
                 label: Apply
