@@ -113,12 +113,7 @@ sections:
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of
               type and
-            actions:
-              - type: Link
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
+            actions: []
           - type: JobListItem
             title: Senior Backend Engineer
             location: Remote
