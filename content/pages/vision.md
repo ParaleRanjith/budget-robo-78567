@@ -41,7 +41,6 @@ sections:
     colors: colors-h
     quote: |
       ## VISION
-    name: Carla Rogers
     title: Someone from the team
     styles:
       self:
