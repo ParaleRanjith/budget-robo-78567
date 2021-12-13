@@ -72,7 +72,6 @@ sections:
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
-        url: /images/skype.svg
         altText: Skype
         caption: Skype
       - type: ImageBlock
