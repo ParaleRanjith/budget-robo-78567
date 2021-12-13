@@ -8,7 +8,7 @@ sections:
     title: |-
       BUDGET
       ROBO-APP – our vision is to make the world a better place
-    subtitle: 'One platform, one community.'
+    subtitle: AVAILABLE IN IOS & ANDROID
     actions:
       - type: Button
         label: Get Started
