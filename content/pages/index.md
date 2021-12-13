@@ -55,12 +55,12 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
+        altText: PlayStation
+        caption: PlayStation
+      - type: ImageBlock
         url: /images/apple.svg
         altText: Apple
         caption: Apple
-      - type: ImageBlock
-        altText: PlayStation
-        caption: PlayStation
       - type: ImageBlock
         url: /images/google-play.svg
         altText: Google Play
