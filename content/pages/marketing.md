@@ -42,7 +42,6 @@ sections:
     quote: >
       # social media is the most effective and reliable platform to market my
       APP
-    title: Someone from the team
     styles:
       self:
         height: auto
