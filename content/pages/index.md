@@ -58,12 +58,12 @@ sections:
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
+        altText: Gatsby
+        caption: Gatsby
+      - type: ImageBlock
         url: /images/apple.svg
         altText: Apple
         caption: Apple
-      - type: ImageBlock
-        altText: Gatsby
-        caption: Gatsby
       - type: ImageBlock
         altText: Xbox
         caption: Xbox
