@@ -15,12 +15,6 @@ sections:
 
 
 
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
       - question: MAJOR RISK
         answer: >+
           Technology risk which I can also relate to team risk. Since the
