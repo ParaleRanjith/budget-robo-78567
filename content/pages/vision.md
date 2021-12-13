@@ -41,7 +41,6 @@ sections:
     colors: colors-h
     quote: |
       ## VISION
-    title: Someone from the team
     styles:
       self:
         height: auto
