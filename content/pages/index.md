@@ -69,7 +69,6 @@ sections:
         altText: Gatsby
         caption: Gatsby
       - type: ImageBlock
-        url: /images/xbox.svg
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
