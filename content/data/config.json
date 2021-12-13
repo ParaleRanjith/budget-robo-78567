@@ -46,6 +46,12 @@
                 "type": "Link"
             },
             {
+                "type": "Link",
+                "label": "RISK",
+                "altText": "Blog",
+                "url": "/blog"
+            },
+            {
                 "label": "GitHub",
                 "altText": "",
                 "url": "/",
@@ -54,12 +60,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "RISK",
-                "altText": "Blog",
-                "url": "/blog"
             }
         ],
         "secondaryLinks": [
