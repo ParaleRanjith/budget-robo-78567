@@ -17,7 +17,7 @@ sections:
       more and more people. Making the venture one of the top ROBO-APP in the
       world. The robots can help the people for grocery purchase, gardening,
       driving, cooking and so on.
-    name: Carla Rogers
+    name: RANJITH
     title: Someone from the team
     styles:
       self:
