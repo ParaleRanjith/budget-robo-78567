@@ -65,12 +65,12 @@ sections:
         altText: Gatsby
         caption: Gatsby
       - type: ImageBlock
+        altText: Xbox
+        caption: Xbox
+      - type: ImageBlock
         url: /images/google-play.svg
         altText: Google Play
         caption: Google Play
-      - type: ImageBlock
-        altText: Xbox
-        caption: Xbox
       - type: ImageBlock
         altText: Skype
         caption: Skype
