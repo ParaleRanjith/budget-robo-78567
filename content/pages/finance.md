@@ -3,7 +3,7 @@ title: FINANCE
 sections:
   - type: HeroSection
     colors: colors-h
-    title: We’re growing fast
+    title: INVESTMENT
     text: You should join us.
     media:
       type: ImageBlock
