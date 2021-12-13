@@ -63,7 +63,6 @@ sections:
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
-        url: /images/playstation.svg
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
