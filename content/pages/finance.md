@@ -39,9 +39,17 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
-      gaps, and we go to lunch together :)
+    quote: >
+      The biggest task is investment. To produce such sophisticated advanced
+      robots, it is important to have highly efficient production machines which
+      can all together produce such ROBOTS.T here are several big ventures who
+      has already have big names in the market producing ROBOTS. This can be a
+      barrier as our venture is a new venture and it takes time to get accepted
+      by the customers. First stage of the production and sales is going to be
+      tough. Convincing the people to try the service is going to be challenging
+      as it’s a new trend and people might not accept it at the first place.
+      Having a very talented and skilled sales and marketing team is going to
+      play a major role in the first stage development.
     name: Carla Rogers
     title: Someone from the team
     styles:
