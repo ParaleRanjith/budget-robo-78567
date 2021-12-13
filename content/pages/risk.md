@@ -22,11 +22,14 @@ sections:
           distruction, on remote, it could be motivation, At the office, working
           together is often a distruction, on remote, it could be motivation
       - question: MAJOR RISK
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >+
+          Technology risk which I can also relate to team risk. Since the
+          service that we provide to the customers is new in the market, there
+          is a high chance that the customers may face difficulties to find the
+          appropriate service they need. 
+
+
+
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
