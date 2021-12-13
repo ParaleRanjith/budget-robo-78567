@@ -105,7 +105,7 @@ sections:
     subtitle: ''
     jobLists:
       - type: JobList
-        title: Engineering
+        title: INFLUENCER MARKETING
         items:
           - type: JobListItem
             title: Head of engineering
