@@ -127,13 +127,7 @@ sections:
               trouble to find it in the play store. There is ton of applications
               available as of now and there is high chance that there may be
               applications with logo having resemblance to my APP
-            actions:
-              - type: Link
-                label: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
+            actions: []
       - type: JobList
         title: Sales
         items:
