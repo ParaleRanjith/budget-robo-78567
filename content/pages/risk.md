@@ -25,11 +25,15 @@ sections:
 
 
       - question: CUSTOMER & TARGET SEGMENT
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >+
+          The segment which my venture will be providing service are those one’s
+          who live in the same city where I set up my venture building. As a
+          start-up company, it will be difficult for us to reach to customers
+          who are far from us. Even though this is an AP based venture we would
+          need to provide some services physically to the clients. 
+
+
+
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
