@@ -114,9 +114,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Faster
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          FASTER AND EFFICIENT PERFOMANCE
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
