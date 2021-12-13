@@ -108,11 +108,15 @@ sections:
         title: INFLUENCER MARKETING
         items:
           - type: JobListItem
-            text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+            text: >
+              Influencer marketing is the use of influencers to reach new users
+              and promote your brand. Influencers can be employed in a variety
+              of ways to help you reach your marketing objectives. You can
+              either provide an influencer “freebie” to share with their
+              audience or pay for product placement. A paid ad has the advantage
+              of giving you greater creative control, whereas merely presenting
+              your products to the right influencer is a cost-effective method
+              to reach an audience.
             actions: []
           - type: JobListItem
             title: Senior Backend Engineer
