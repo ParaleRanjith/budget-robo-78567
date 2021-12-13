@@ -66,7 +66,6 @@ sections:
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
-        url: /images/gatsby.svg
         altText: Gatsby
         caption: Gatsby
       - type: ImageBlock
