@@ -59,12 +59,12 @@ sections:
         altText: Apple
         caption: Apple
       - type: ImageBlock
+        altText: PlayStation
+        caption: PlayStation
+      - type: ImageBlock
         url: /images/google-play.svg
         altText: Google Play
         caption: Google Play
-      - type: ImageBlock
-        altText: PlayStation
-        caption: PlayStation
       - type: ImageBlock
         altText: Gatsby
         caption: Gatsby
