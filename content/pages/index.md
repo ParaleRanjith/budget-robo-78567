@@ -22,7 +22,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/ai_explained_05.jpg
       altText: Image alt text
       caption: Image caption
     styles:
