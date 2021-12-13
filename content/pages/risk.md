@@ -7,11 +7,14 @@ sections:
     subtitle: ''
     items:
       - question: RISKS
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >+
+          The chances of possibilities of loss in a business is an important
+          factor to be taken care of. There can be several uncertainties
+          regarding the outcomes and maintenance of a new venture in the
+          market. 
+
+
+
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
