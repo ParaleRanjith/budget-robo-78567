@@ -18,7 +18,6 @@ sections:
       world. The robots can help the people for grocery purchase, gardening,
       driving, cooking and so on.
     name: RANJITH
-    title: Someone from the team
     styles:
       self:
         height: auto
