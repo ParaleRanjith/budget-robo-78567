@@ -108,7 +108,6 @@ sections:
         title: INFLUENCER MARKETING
         items:
           - type: JobListItem
-            title: Head of engineering
             location: San Francisco
             text: >-
               Lorem Ipsum is simply dummy text of the printing and typesetting
