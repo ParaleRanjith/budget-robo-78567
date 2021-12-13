@@ -50,7 +50,6 @@ sections:
       as it’s a new trend and people might not accept it at the first place.
       Having a very talented and skilled sales and marketing team is going to
       play a major role in the first stage development.
-    name: Carla Rogers
     title: Someone from the team
     styles:
       self:
