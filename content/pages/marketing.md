@@ -108,7 +108,6 @@ sections:
         title: INFLUENCER MARKETING
         items:
           - type: JobListItem
-            location: San Francisco
             text: >-
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
