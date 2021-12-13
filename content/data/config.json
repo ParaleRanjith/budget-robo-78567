@@ -28,7 +28,7 @@
             {
                 "label": "MARKETING",
                 "altText": "",
-                "url": "/",
+                "url": "/marketing",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
